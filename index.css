@@ -418,7 +418,7 @@ body:not(.user-is-tabbing) a:focus {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    /*background: var(--white);*/
+    background: var(--beige);
 }
 
 .header__text p {
