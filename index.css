@@ -125,7 +125,7 @@ h3 {
     font-family: 'Jost', sans-serif;
     font-weight: 400;
     line-height: var(--line-height-small);
-    color: var(--white);
+    color: var(--black);
 }
 
 .heading-primary {
@@ -404,7 +404,7 @@ body:not(.user-is-tabbing) a:focus {
 /* --------------------------------------- */
 
 .header {
-    background: linear-gradient(rgba(239, 235, 235, 0.1), rgba(239,235,235, .4)), 
+    background: linear-gradient(rgba(5, 5, 5, 0.1), rgba(239,235,235, 0.1)), 
         url('./images/background.jpg');
     height: 100vh;
     background-size: cover;
