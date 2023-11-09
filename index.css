@@ -258,7 +258,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .btn--pink:hover,
 .btn--pink:focus {
-    background: transparent;
+    background: var(--white);
 }
 
 .link__text {
