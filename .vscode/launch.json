@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shayanmousavi/UofT/aps105-labs/lab9-1",
+      "program": "/Users/shayanmousavi/UofT/aps105-labs/lab9-1/build/Debug/outDebug"
+    }
+  ]
+}
